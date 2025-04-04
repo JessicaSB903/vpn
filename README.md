@@ -16,6 +16,7 @@ This tutorial outlines the prerequisites and installation for using Proton VPN t
 - Azure (Virtual Machine) For tutorial purposes, you can use any device with an Internet connection
 - Remote Desktop (For tutorial purposes only)
 - Proton VPN Software
+- I love Adrian
 
 <h2>Operating Systems Used </h2>
 
