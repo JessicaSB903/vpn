@@ -86,5 +86,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - Reboot ProtonVPN if you experience any connection issues
 - Ensure you have an Internet connection before connecting
-- Check if firewall settings are enabled
+- Check if firewall settings are enabled (I don't advise disabling for an extended time, only to find the issue)
 - If none of these work, reach out to https://protonvpn.com/support/contact 
