@@ -23,50 +23,67 @@ This tutorial outlines the prerequisites and installation for using Proton VPN t
 
 <h2>List of Prerequisites</h2>
 
-- Log in to VM (Virtual Machine)
-- Download the VPN software
-- Run the installer
-- Launch
-- Check status and location set by VPN
+- Observe YOUR IP address
+- Create a Resource Group with a Virtual Machine
+- Connect to VM via Remote Desktop
+- Check the status of the IP address
+- Sign up for ProtonVPN 
+- Download the ProtonVPN client in the VIRTUAL MACHINE
+- Login and launch
+- Check the status and location set by VPN 
 - Browse via the VPN
 
 <h2>Installation Steps</h2>
-Create and log in to Virtual Machine via Remote Desktop
+
+From your OWN computer, browse to [https://whatismyipaddress.com/](https://whatismyipaddress.com/). Observe YOUR IP address and location
+<p>
+<img src="https://i.imgur.com/UX4QtEZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Set up a Resource Group and deploy a Virtual Machine with it, choosing a geographic region different from your own.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Select a VPN provider, sign up and download software.
+
+Use the IP address of the VM to log into Remote Desktop
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Run the installer, launch the VPN client, and sign in using credentials.
+
+Browse to [https://whatismyipaddress.com](https://whatismyipaddress.com/) and ensure the location is where you deployed your VM
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Connect to the VPN server and observe the status. Your initial IP address should be listed.
+
+On your OWN computer, sign up for a free version of ProtonVPN https://account.protonvpn.com/signup?plan=free&language=en  
+<p>
+<img src="https://i.imgur.com/vE9gj1Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Inside your VIRTUAL MACHINE, download the ProtonVPN client
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Log in to the VPN and choose a server in yet another country.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Choose a server location in a region different from your actual location and connect to the server.
+
+Use https://whatismyipaddress.com and observe the location your VM will now be accessing to browse through the VPN
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Observe the status of the server. Your location and IP address will changed based off of the region that was chosen.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Verify the connection using https://whatismyip.com
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Browse as normal.
+
+Happy Browsing!
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -80,4 +97,4 @@ Browse as normal.
 - Check if firewall settings are enabled (I don't advise disabling for an extended time, only to find the issue)
 - If none of these work, reach out to customer support.
   
-<H2>Happy Browsing!</H2>
+
