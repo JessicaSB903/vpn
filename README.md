@@ -61,13 +61,13 @@ Browse to [https://whatismyipaddress.com](https://whatismyipaddress.com/) and en
 
 On your OWN computer, sign up for a free version of ProtonVPN https://account.protonvpn.com/signup?plan=free&language=en  
 <p>
-<img src="https://i.imgur.com/vE9gj1Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 Inside your VIRTUAL MACHINE, download the ProtonVPN client
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U2vcdbn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
