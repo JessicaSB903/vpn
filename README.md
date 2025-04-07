@@ -13,7 +13,10 @@ This tutorial outlines the prerequisites and installation for using Proton VPN t
 
 <h2>Environments and Technologies Used</h2>
 
-- Azure (Virtual Machine) 
+- https://whatismyipaddress.com
+- Microsoft Azure
+- Resource Group
+- Azure Virtual Machine (VM)
 - Remote Desktop 
 - ProtonVPN Software 
 
@@ -24,13 +27,14 @@ This tutorial outlines the prerequisites and installation for using Proton VPN t
 <h2>List of Prerequisites</h2>
 
 - Observe YOUR IP address
-- Create a Resource Group with a Virtual Machine
+- Create a Resource Group
+- Create and deploy a Virtual Machine
 - Connect to VM via Remote Desktop
 - Check the status of the IP address
 - Sign up for ProtonVPN 
-- Download the ProtonVPN client in the VIRTUAL MACHINE
+- Download the ProtonVPN 
 - Login and launch
-- Check the status and location set by VPN 
+- Check the status and location
 - Browse via the VPN
 
 <h2>Installation Steps</h2>
@@ -41,7 +45,7 @@ From your OWN computer, browse to [https://whatismyipaddress.com/](https://whati
 </p>
 <p>
 
-Set up a Resource Group and deploy a Virtual Machine with it, choosing a geographic region different from your own.
+Set up a Resource Group and deploy a Virtual Machine within it, choosing a geographic region different from your own. 
 <p>
 <img src="https://i.imgur.com/PiGdhzB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
