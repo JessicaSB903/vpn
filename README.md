@@ -24,7 +24,6 @@ This tutorial outlines the prerequisites and installation for using Proton VPN t
 <h2>List of Prerequisites</h2>
 
 - Go to https://protonvpn.com/ 
-- Sign up for an account of your preference
 - Download the software
 - Run the installer
 - Launch ProtonVPN
