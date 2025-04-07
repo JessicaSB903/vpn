@@ -39,13 +39,13 @@ This tutorial outlines the prerequisites and installation for using Proton VPN t
 
 <h2>Installation Steps</h2>
 
-From your OWN computer, browse to [https://whatismyipaddress.com/](https://whatismyipaddress.com/). Observe YOUR IP address and location
+From your OWN computer, browse to [https://whatismyipaddress.com/](https://whatismyipaddress.com/). Observe YOUR IP address and location. The example shows a location of the United States.
 <p>
 <img src="https://i.imgur.com/UX4QtEZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Set up a Resource Group and deploy a Virtual Machine within it, choosing a geographic region different from your own. 
+Set up a Resource Group and deploy a Virtual Machine within it, choosing a geographic region different from your own. This VM is using Central India.
 <p>
 <img src="https://i.imgur.com/PiGdhzB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -57,7 +57,7 @@ Use the IP address of the VM to log into Remote Desktop
 </p>
 <p>
 
-Browse to [https://whatismyipaddress.com](https://whatismyipaddress.com/) and ensure the location is where you deployed your VM
+Browse to [https://whatismyipaddress.com](https://whatismyipaddress.com/) and ensure the location matches your deployed VM. 
 <p>
 <img src="https://i.imgur.com/rpd8RnI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -75,11 +75,14 @@ Inside your VIRTUAL MACHINE, download the ProtonVPN client
 </p>
 <p>
 
-Verify email and log in to the VPN. Choose a server in yet another country. https://account.protonvpn.com/login
+Verify your sign-up email and log into the VPN. https://account.protonvpn.com/login Choose a server in yet another country. 
 <p>
 <img src="https://i.imgur.com/avmMlVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+Japan is the chosen country for this tutorial.
+
 <p>
 <img src="https://i.imgur.com/U02Ffq1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
